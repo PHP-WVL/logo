@@ -38,6 +38,9 @@ section#logo {
 	border: .5em solid black;
 	position: relative;
 	transform: rotate(6.8deg);
+	-moz-transform: rotate(6.8deg);
+	-ms-transform: rotate(6.8deg);
+	-webkit-transform: rotate(6.8deg);
 	p {
 		position: absolute;
 	}
