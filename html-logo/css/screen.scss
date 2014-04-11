@@ -1,0 +1,127 @@
+$background-color: #dadada;
+$php-purple: #767bb3;
+$side-text-color: #787878;
+
+$logo-size: 28.9375;
+$logo-inner-size: 22.75;
+$logo-text-circle-size: 11.813;
+
+$center-height: 9.875;
+
+$charcount: 135;
+
+@font-face {
+	font-family: 'shizzle';
+	src: url("../fonts/FUTRFW.TTF") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+*, *:before, *:after {
+	margin: 0;
+	padding: 0;
+}
+
+@mixin circle($diameter) {
+	width: unquote("#{$diameter}em");
+	height: unquote("#{$diameter}em");
+	border-radius: 50%;
+}
+
+body {
+	font-size: 16px;
+}
+
+section#logo {
+	@include circle($logo-size);
+	background: $background-color;
+	border: .5em solid black;
+	position: relative;
+	transform: rotate(6.8deg);
+	p {
+		position: absolute;
+	}
+}
+
+#line {
+	& > span {
+		margin-left: #{$logo-text-circle-size}em;
+		margin-top: #{($logo-size - $logo-text-circle-size)/22}em;
+		font: 1.166875em shizzle, MonoSpace;
+		height: #{$logo-text-circle-size}em;
+		position: absolute;
+		width: 1.25em;
+		left: 0;
+		top: 0;
+		transform-origin: bottom center;
+		-ms-transform-origin: bottom center;
+		-moz-transform-origin: bottom center;
+		-webkit-transform-origin: bottom center;
+		color: $side-text-color;
+	}
+}
+
+@for $i from 1 through $charcount {
+	#line .char#{$i} {
+		transform: rotate(#{$i*(360/$charcount)}deg);
+		-ms-transform: rotate(#{$i*(360/$charcount)}deg);
+		-webkit-transform: rotate(#{$i*(360/$charcount)}deg);
+		-moz-transform: rotate(#{$i*(360/$charcount)}deg);
+	}
+}
+
+div#center {
+	@include circle($logo-inner-size);
+	background: $php-purple;
+	position: absolute;
+	top: 0;
+	margin: auto;
+	left: #{($logo-size -$logo-inner-size)/2}em;
+	top: #{($logo-size -$logo-inner-size)/2}em;
+	overflow: hidden;
+}
+
+div.top {
+	display: block;
+	width: 100%;
+	height: #{($logo-inner-size - $center-height)/2}em;
+}
+
+div.bottom {
+	@extend div.top;
+	& > p {
+		color: white;
+		text-align: center;
+		display: block;
+		width: 100%;
+		font: 5.580625em 'Muli', 'sans-serif';
+		margin-top: -.1em;
+	}
+}
+
+div.center {
+	text-align: center;
+	height: #{$center-height}em;
+	color: black;
+	display: block;
+	background: $background-color;
+	width: 100%;
+	h1 {
+		line-height:#{$center-height/11.0325}em;
+		height:#{$center-height/11.0325}em;
+		font-family: 'Hammersmith One', sans-serif;
+		font-weight: normal;
+		font-size: 11.0325em;
+		padding-top: .06em;
+	}
+	> span {
+		font-size: 1.29125em;
+		display: block;
+		font-family: 'Hammersmith One', sans-serif;
+		color: $side-text-color;
+		margin: auto;
+		text-align: right;
+		margin-top: -2.3em;
+		width: 92%;
+	}
+}
