@@ -128,3 +128,15 @@ div.center {
 		width: 92%;
 	}
 }
+
+#tractor {
+	transform: rotate(-6.8deg);
+	-moz-transform: rotate(-6.8deg);
+	-ms-transform: rotate(-6.8deg);
+	-webkit-transform: rotate(-6.8deg);
+	background: url(../img/suchhorsepower.png) no-repeat center;
+	background: url(../img/suchhorsepower.svg) no-repeat center;
+	background-size: 6.375em 5.313em;
+	width: 100%;
+	height: #{($logo-inner-size - $center-height)/2}em;
+}
