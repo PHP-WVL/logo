@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3336"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   xml:space="preserve"
+   width="744.09998"
+   height="1052.3625"
+   viewBox="0 0 744.09998 1052.3625"
+   sodipodi:docname="logo.ai"><metadata
+     id="metadata3342"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs3340"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3350"><path
+         d="m 0,841.89 595.28,0 L 595.28,0 0,0 0,841.89 Z"
+         id="path3352"
+         inkscape:connector-curvature="0" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3386"><path
+         d="m 0,841.89 595.28,0 L 595.28,0 0,0 0,841.89 Z"
+         id="path3388"
+         inkscape:connector-curvature="0" /></clipPath></defs><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1348"
+     inkscape:window-height="876"
+     id="namedview3338"
+     showgrid="false"
+     inkscape:zoom="0.7915523"
+     inkscape:cx="-7633.5087"
+     inkscape:cy="526.18127"
+     inkscape:window-x="534"
+     inkscape:window-y="74"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g3344" /><g
+     id="g3344"
+     inkscape:groupmode="layer"
+     inkscape:label="logo"
+     transform="matrix(1.25,0,0,-1.25,0,1052.3625)"><g
+       id="g3346"
+       transform="translate(-6786.6646,-17.181429)"><g
+         id="g3348"
+         clip-path="url(#clipPath3350)"><g
+           id="g3354"
+           transform="translate(36.2959,419.921)"><path
+             d="M 0,0 C 0,145.207 117.714,262.921 262.921,262.921 408.128,262.921 525.842,145.207 525.842,0 525.842,-145.207 408.128,-262.921 262.921,-262.921 117.714,-262.921 0,-145.207 0,0"
+             style="fill:#d8d8d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3356"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3358"
+           transform="translate(36.2959,419.921)"><path
+             d="M 0,0 C 0,145.207 117.714,262.921 262.921,262.921 408.128,262.921 525.842,145.207 525.842,0 525.842,-145.207 408.128,-262.921 262.921,-262.921 117.714,-262.921 0,-145.207 0,0 Z"
+             style="fill:none;stroke:#1d1d1b;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path3360"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3362"
+           transform="translate(506.3713,419.921)"><path
+             d="m 0,0 c 0,-114.408 -92.746,-207.155 -207.154,-207.155 -114.409,0 -207.155,92.747 -207.155,207.155 0,114.408 92.746,207.155 207.155,207.155 C -92.746,207.155 0,114.408 0,0"
+             style="fill:#767bb2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3364"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3366"
+           transform="translate(498.1552,308.5822)"><path
+             d="M 0,0 -425.713,49.558 -404.972,227.727 20.741,178.169 0,0 Z"
+             style="fill:#d8d8d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3368"
+             inkscape:connector-curvature="0" /></g></g></g><text
+       transform="matrix(0.99329234,-0.11563017,-0.11563017,-0.99329234,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200.35168457px;font-family:HammersmithOne;-inkscape-font-specification:HammersmithOne-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3370"
+       x="-6655.8599"
+       y="413.41437"><tspan
+         x="-6655.8599 -6555.4834 -6422.0493"
+         y="413.41437"
+         sodipodi:role="line"
+         id="tspan3372">PHP</tspan></text>
+<text
+       transform="matrix(0.99329229,-0.11563058,-0.11563058,-0.99329229,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.27844429px;font-family:HammersmithOne;-inkscape-font-specification:HammersmithOne-Regular;writing-mode:lr-tb;fill:#7d7d7d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3374"
+       x="-6380.0679"
+       y="412.13745"><tspan
+         x="-6380.0679 -6368.5215 -6351.0742 -6339.3652 -6333.5459 -6327.7495 -6314.248"
+         y="412.13745"
+         sodipodi:role="line"
+         id="tspan3376">-wvl.be</tspan></text>
+<text
+       transform="matrix(0.99329235,-0.11563003,-0.11563003,-0.99329235,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:102.03058624px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3378"
+       x="-6582.7192"
+       y="523.43085"><tspan
+         x="-6582.7192 -6497.9316 -6441.4067"
+         y="523.43085"
+         sodipodi:role="line"
+         id="tspan3380">wvl</tspan></text>
+<g
+       id="g3382"
+       style="fill:#ff0000"
+       transform="translate(-6786.6646,-17.181429)"><g
+         id="g3384"
+         clip-path="url(#clipPath3386)"
+         style="fill:#ff0000"><g
+           id="g3390"
+           transform="translate(334.2744,543.2031)"
+           style="fill:#ff0000"><path
+             d="m 0,0 c -3.895,0.023 -6.992,-2.861 -7.06,-6.574 -0.071,-3.803 2.946,-7.076 6.574,-7.133 3.992,-0.064 7.078,2.929 7.143,6.927 C 6.716,-3.152 3.641,-0.021 0,0 m -22.243,31.804 c -0.514,4.491 -1.023,8.983 -1.544,13.472 -0.108,0.916 -0.553,1.391 -1.572,1.517 -5.492,0.68 -10.974,1.425 -16.455,2.183 -1.037,0.143 -1.45,-0.165 -1.576,-1.244 -0.498,-4.25 -1.058,-8.492 -1.664,-12.727 -0.125,-0.871 0.006,-1.303 0.926,-1.423 6.975,-0.909 13.949,-1.819 20.917,-2.775 0.94,-0.13 1.134,0.205 0.968,0.997 M 8.406,1.634 c 5.961,-7.562 2.889,-14.69 -1.508,-17.973 -4.872,-3.638 -11.939,-2.922 -15.949,1.537 -3.642,4.052 -5.094,12.155 2.396,18.18 -2.748,0.376 -5.266,0.725 -7.783,1.063 -0.692,0.093 -0.856,-0.335 -0.877,-0.914 -0.024,-0.629 -0.023,-1.266 -0.127,-1.883 -0.303,-1.796 -1.804,-3.007 -3.438,-2.827 -1.724,0.191 -2.936,1.777 -2.721,3.687 0.575,5.071 -0.486,9.779 -3.246,14.045 -6.035,9.332 -17.863,12.344 -27.92,7.179 -0.503,-0.259 -0.989,-0.554 -1.502,-0.79 -1.687,-0.774 -3.233,-0.37 -4.122,1.058 -0.888,1.427 -0.572,3.047 0.909,4.17 1.31,0.992 2.792,1.724 4.324,2.291 0.924,0.341 1.386,0.722 1.521,1.809 0.822,6.61 1.775,13.203 2.644,19.807 0.399,3.029 1.624,3.966 4.69,3.552 7.722,-1.043 15.446,-2.079 23.175,-3.061 1.887,-0.241 2.85,-1.348 3.058,-3.054 0.838,-6.865 1.689,-13.733 2.335,-20.617 0.495,-5.287 0.361,-5.3 5.544,-6.056 4.489,-0.656 4.447,-0.651 5.024,3.83 0.426,3.306 0.658,6.646 1.504,9.886 1.089,4.167 4.231,6.413 8.524,6.11 0.521,-0.036 1.371,0.152 1.344,-0.634 C 6.176,41.177 6.65,39.934 5.444,39.549 3.349,38.882 2.702,37.161 2.397,35.376 1.675,31.159 1.2,26.901 0.543,22.673 c -0.219,-1.412 0.73,-1.396 1.565,-1.509 4.179,-0.567 8.364,-1.095 12.545,-1.641 0.561,-0.072 1.127,-0.135 1.678,-0.255 1.881,-0.408 2.584,-1.624 1.722,-3.32 C 15.998,11.914 13.86,7.921 11.71,3.936 11.05,2.71 9.861,2.089 8.406,1.634"
+             style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path3392"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3394"
+           transform="translate(279.8115,548.1807)"
+           style="fill:#ff0000"><path
+             d="m 0,0 c 0.076,-6.816 5.336,-11.856 12.317,-11.8 5.956,0.047 11.415,5.693 11.341,11.725 C 23.573,6.823 18.301,12.058 11.524,11.973 5.055,11.892 -0.073,6.564 0,0 m 30.511,3.183 c -1.105,-3.199 1.387,-6.68 -1.482,-9.339 0.182,-3.525 -2.768,-5.344 -4.617,-7.502 -1.979,-2.312 -5.075,-4.206 -8.13,-4.393 -2.777,-0.17 -5.894,-1.921 -8.601,0.461 -3.542,-1.28 -5.506,1.948 -7.709,3.361 -2.262,1.449 -4.694,3.872 -5.331,7.001 -0.515,2.534 -2.752,4.867 -1.03,7.702 -2.415,2.899 1.07,4.965 1.208,7.604 0.137,2.612 2.904,4.67 4.861,6.255 1.966,1.591 4.24,4.011 6.985,3.771 2.638,-0.231 5.289,2.525 7.817,-0.074 3.053,1.477 4.828,-1.525 7.297,-2.145 2.824,-0.709 4.127,-3.626 5.697,-5.651 1.478,-1.907 2.444,-4.667 3.035,-7.051"
+             style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path3396"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3398"
+           transform="translate(359.9326,607.2222)"
+           style="fill:#ff0000"><path
+             d="m 0,0 c 1.199,-1.955 2.653,-3.392 4.849,-4.025 -1.675,-1.854 -3.054,-3.793 -6.306,-3.869 2.545,-1.935 5.039,-2.417 7.454,-3.108 -1.579,-1.929 -6.426,-3.156 -8.62,-2.251 -0.732,0.302 -0.588,0.621 -0.21,1.102 1.28,1.631 1.448,3.571 1.484,5.541 0.04,2.197 0.147,4.38 1.349,6.61"
+             style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path3400"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3402"
+           transform="translate(345.6738,588.4072)"
+           style="fill:#ff0000"><path
+             d="m 0,0 c 1.983,-1.607 3.977,-1.816 5.88,-2.627 -2.03,-1.631 -4.191,-1.984 -6.5,-1.746 -0.497,0.051 -1.16,0.187 -0.612,0.91 1.458,1.927 1.007,4.227 1.293,6.375 C 0.209,4.032 0.384,5.106 0.997,6.29 2.127,4.896 3.062,3.504 5.095,3.273 3.662,1.746 2.651,0.109 0,0"
+             style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path3404"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3406"
+           transform="translate(372.8477,599.1982)"
+           style="fill:#ff0000"><path
+             d="m 0,0 c -2.599,-0.105 -4.363,-1.412 -6.269,-2.781 -0.122,1.925 -0.671,3.569 -1.149,5.234 -0.338,1.179 -0.088,1.8 1.38,1.386 C -3.756,3.198 -1.741,2.202 0,0"
+             style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path3408"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3410"
+           transform="translate(356.9238,588.249)"
+           style="fill:#ff0000"><path
+             d="M 0,0 C -2.082,-0.012 -3.37,-1.176 -4.984,-2.176 -5.067,-0.572 -5.489,0.76 -5.86,2.105 -6.099,2.968 -5.796,3.451 -4.807,3.175 -2.989,2.668 -1.316,1.933 0,0"
+             style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path3412"
+             inkscape:connector-curvature="0" /></g><g
+           id="g3414"
+           transform="translate(291.7627,542.7217)"
+           style="fill:#ff0000"><path
+             d="m 0,0 c -3.317,-0.006 -5.842,2.415 -5.832,5.594 0.008,2.915 2.694,5.683 5.48,5.649 C 2.987,11.203 5.522,8.645 5.472,5.368 5.429,2.495 2.891,0.006 0,0"
+             style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path3416"
+             inkscape:connector-curvature="0" /></g></g></g><text
+       transform="matrix(0.67868079,-0.73443338,-0.73443338,-0.67868079,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66894913px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3418"
+       x="-4705.4287"
+       y="4265.521"><tspan
+         x="-4705.4287"
+         y="4265.521"
+         id="tspan3420">&lt;</tspan></text>
+<text
+       transform="matrix(0.63702515,-0.77084302,-0.77084302,-0.63702515,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66900253px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3422"
+       x="-4449.4243"
+       y="4518.5059"><tspan
+         x="-4449.4243"
+         y="4518.5059"
+         id="tspan3424">?</tspan></text>
+<text
+       transform="matrix(0.5931548,-0.80508843,-0.80508843,-0.5931548,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66904831px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3426"
+       x="-4178.5737"
+       y="4758.3286"><tspan
+         x="-4178.5737"
+         y="4758.3286"
+         id="tspan3428">=</tspan></text>
+<text
+       transform="matrix(0.52873564,-0.84878656,-0.84878656,-0.52873564,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66905212px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3430"
+       x="-3777.031"
+       y="5067.7349"><tspan
+         x="-3777.031"
+         y="5067.7349"
+         id="tspan3432">“</tspan></text>
+<text
+       transform="matrix(0.48648827,-0.87368711,-0.87368711,-0.48648827,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66897011px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3434"
+       x="-3513.3596"
+       y="5246.271"><tspan
+         x="-3513.3596"
+         y="5246.271"
+         id="tspan3436">E</tspan></text>
+<text
+       transform="matrix(0.45571055,-0.89012802,-0.89012802,-0.45571055,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66901779px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3438"
+       x="-3316.7"
+       y="5365.3115"><tspan
+         x="-3316.7"
+         y="5365.3115"
+         id="tspan3440">l</tspan></text>
+<text
+       transform="matrix(0.42582548,-0.90480532,-0.90480532,-0.42582548,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66897011px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3442"
+       x="-3132.0352"
+       y="5472.5547"><tspan
+         x="-3132.0352"
+         y="5472.5547"
+         id="tspan3444">k</tspan></text>
+<text
+       transform="matrix(0.36131801,-0.93244265,-0.93244265,-0.36131801,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66900063px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3446"
+       x="-2723.9219"
+       y="5677.8105"><tspan
+         x="-2723.9219"
+         y="5677.8105"
+         id="tspan3448">z</tspan></text>
+<text
+       transform="matrix(0.33351814,-0.94274368,-0.94274368,-0.33351814,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66898727px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3450"
+       x="-2545.3181"
+       y="5755.8271"><tspan
+         x="-2545.3181"
+         y="5755.8271"
+         id="tspan3452">i</tspan></text>
+<text
+       transform="matrix(0.29713462,-0.9548356,-0.9548356,-0.29713462,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66896629px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3454"
+       x="-2318.6211"
+       y="5848.9175"><tspan
+         x="-2318.6211"
+         y="5848.9175"
+         id="tspan3456">n</tspan></text>
+<text
+       transform="matrix(0.24167662,-0.97035685,-0.97035685,-0.24167662,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66903877px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3458"
+       x="-1965.1229"
+       y="5971.938"><tspan
+         x="-1965.1229"
+         y="5971.938"
+         id="tspan3460">n</tspan></text>
+<text
+       transform="matrix(0.18354313,-0.98301166,-0.98301166,-0.18354313,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66902161px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3462"
+       x="-1593.5149"
+       y="6077.438"><tspan
+         x="-1593.5149"
+         y="6077.438"
+         id="tspan3464">e</tspan></text>
+<text
+       transform="matrix(0.0962065,-0.9953614,-0.9953614,-0.0962065,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66901398px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3466"
+       x="-1032.0734"
+       y="6192.7139"><tspan
+         x="-1032.0734"
+         y="6192.7139"
+         id="tspan3468">g</tspan></text>
+<text
+       transform="matrix(0.04841937,-0.99882709,-0.99882709,-0.04841937,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66901588px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3470"
+       x="-719.90076"
+       y="6234.4321"><tspan
+         x="-719.90076"
+         y="6234.4321"
+         id="tspan3472">’</tspan></text>
+<text
+       transform="matrix(0.00343347,-0.99999411,-0.99999411,-0.00343347,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66902733px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3474"
+       x="-431.25809"
+       y="6260.1064"><tspan
+         x="-431.25809"
+         y="6260.1064"
+         id="tspan3476">n</tspan></text>
+<text
+       transform="matrix(-0.05710473,-0.99836819,-0.99836819,0.05710473,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66895866px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3478"
+       x="-38.564838"
+       y="6273.9141"><tspan
+         x="-38.564838"
+         y="6273.9141"
+         id="tspan3480">d</tspan></text>
+<text
+       transform="matrix(-0.12092838,-0.99266123,-0.99266123,0.12092838,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66902351px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3482"
+       x="377.92859"
+       y="6262.5615"><tspan
+         x="377.92859"
+         y="6262.5615"
+         id="tspan3484">a</tspan></text>
+<text
+       transform="matrix(-0.18359385,-0.98300219,-0.98300219,0.18359385,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66902542px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3486"
+       x="788.5791"
+       y="6225.0942"><tspan
+         x="788.5791"
+         y="6225.0942"
+         id="tspan3488">g</tspan></text>
+<text
+       transform="matrix(-0.23660993,-0.97160472,-0.97160472,0.23660993,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66899681px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3490"
+       x="1139.2268"
+       y="6172.4653"><tspan
+         x="1139.2268"
+         y="6172.4653"
+         id="tspan3492">”</tspan></text>
+<text
+       transform="matrix(-0.27106938,-0.96255981,-0.96255981,0.27106938,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66899109px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3494"
+       x="1368.7023"
+       y="6127.6362"><tspan
+         x="1368.7023"
+         y="6127.6362"
+         id="tspan3496">;</tspan></text>
+<text
+       transform="matrix(-0.33478241,-0.94229546,-0.94229546,0.33478241,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66899872px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3498"
+       x="1786.8224"
+       y="6021.7759"><tspan
+         x="1786.8224"
+         y="6021.7759"
+         id="tspan3500">?</tspan></text>
+<text
+       transform="matrix(-0.38742807,-0.92189994,-0.92189994,0.38742807,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66905403px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3502"
+       x="2136.395"
+       y="5910.6162"><tspan
+         x="2136.395"
+         y="5910.6162"
+         id="tspan3504">&gt;</tspan></text>
+<text
+       transform="matrix(-0.48609112,-0.87390813,-0.87390813,0.48609112,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66898155px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3506"
+       x="2795.6772"
+       y="5638.9219"><tspan
+         x="2795.6772"
+         y="5638.9219"
+         id="tspan3508">&lt;</tspan></text>
+<text
+       transform="matrix(-0.53490649,-0.84491127,-0.84491127,0.53490649,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66902161px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3510"
+       x="3124.1157"
+       y="5470.4297"><tspan
+         x="3124.1157"
+         y="5470.4297"
+         id="tspan3512">?</tspan></text>
+<text
+       transform="matrix(-0.58196044,-0.81321709,-0.81321709,0.58196044,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66899872px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3514"
+       x="3441.8887"
+       y="5283.7324"><tspan
+         x="3441.8887"
+         y="5283.7324"
+         id="tspan3516">=</tspan></text>
+<text
+       transform="matrix(-0.64392483,-0.76508876,-0.76508876,0.64392483,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66898918px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3518"
+       x="3864.3025"
+       y="4996.4189"><tspan
+         x="3864.3025"
+         y="4996.4189"
+         id="tspan3520">“</tspan></text>
+<text
+       transform="matrix(-0.68055181,-0.73269996,-0.73269996,0.68055181,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66903305px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3522"
+       x="4114.5869"
+       y="4801.0308"><tspan
+         x="4114.5869"
+         y="4801.0308"
+         id="tspan3524">E</tspan></text>
+<text
+       transform="matrix(-0.70544116,-0.70876849,-0.70876849,0.70544116,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.668993px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3526"
+       x="4289.3696"
+       y="4655.7832"><tspan
+         x="4289.3696"
+         y="4655.7832"
+         id="tspan3528">l</tspan></text>
+<text
+       transform="matrix(-0.72824253,-0.6853195,-0.6853195,0.72824253,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66901779px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3530"
+       x="4443.5366"
+       y="4512.8257"><tspan
+         x="4443.5366"
+         y="4512.8257"
+         id="tspan3532">k</tspan></text>
+<text
+       transform="matrix(-0.77341399,-0.63390126,-0.63390126,0.77341399,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66898918px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3534"
+       x="4758.4038"
+       y="4197.3999"><tspan
+         x="4758.4038"
+         y="4197.3999"
+         id="tspan3536">z</tspan></text>
+<text
+       transform="matrix(-0.79151219,-0.61115338,-0.61115338,0.79151219,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66902924px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3538"
+       x="4887.5039"
+       y="4057.0876"><tspan
+         x="4887.5039"
+         y="4057.0876"
+         id="tspan3540">i</tspan></text>
+<text
+       transform="matrix(-0.81400778,-0.58085397,-0.58085397,0.81400778,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66895676px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3542"
+       x="5041.2764"
+       y="3869.5464"><tspan
+         x="5041.2764"
+         y="3869.5464"
+         id="tspan3544">n</tspan></text>
+<text
+       transform="matrix(-0.84596362,-0.53324062,-0.53324062,0.84596362,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66901779px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3546"
+       x="5267.7798"
+       y="3573.4675"><tspan
+         x="5267.7798"
+         y="3573.4675"
+         id="tspan3548">n</tspan></text>
+<text
+       transform="matrix(-0.87614994,-0.48203868,-0.48203868,0.87614994,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66900826px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3550"
+       x="5483.7397"
+       y="3253.397"><tspan
+         x="5483.7397"
+         y="3253.397"
+         id="tspan3552">e</tspan></text>
+<text
+       transform="matrix(-0.91548997,-0.4023408,-0.4023408,0.91548997,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66894341px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3554"
+       x="5770.6436"
+       y="2752.1289"><tspan
+         x="5770.6436"
+         y="2752.1289"
+         id="tspan3556">g</tspan></text>
+<text
+       transform="matrix(-0.93392695,-0.35746393,-0.35746393,0.93392695,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66903877px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3558"
+       x="5911.7119"
+       y="2468.3821"><tspan
+         x="5911.7119"
+         y="2468.3821"
+         id="tspan3560">’</tspan></text>
+<text
+       transform="matrix(-0.9492393,-0.31455484,-0.31455484,0.9492393,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66903496px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3562"
+       x="6025.4395"
+       y="2196.1511"><tspan
+         x="6025.4395"
+         y="2196.1511"
+         id="tspan3564">n</tspan></text>
+<text
+       transform="matrix(-0.9667104,-0.25587303,-0.25587303,0.9667104,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66895103px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3566"
+       x="6161.5024"
+       y="1822.4586"><tspan
+         x="6161.5024"
+         y="1822.4586"
+         id="tspan3568">d</tspan></text>
+<text
+       transform="matrix(-0.98121166,-0.19293438,-0.19293438,0.98121166,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66902542px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3570"
+       x="6280.8794"
+       y="1419.9575"><tspan
+         x="6280.8794"
+         y="1419.9575"
+         id="tspan3572">a</tspan></text>
+<text
+       transform="matrix(-0.99151745,-0.12997364,-0.12997364,0.99151745,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66900826px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3574"
+       x="6373.1782"
+       y="1015.6282"><tspan
+         x="6373.1782"
+         y="1015.6282"
+         id="tspan3576">g</tspan></text>
+<text
+       transform="matrix(-0.99710339,-0.07605808,-0.07605808,0.99710339,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66896629px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3578"
+       x="6433.1826"
+       y="668.08136"><tspan
+         x="6433.1826"
+         y="668.08136"
+         id="tspan3580">”</tspan></text>
+<text
+       transform="matrix(-0.99918364,-0.04039875,-0.04039875,0.99918364,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66898918px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3582"
+       x="6463.2983"
+       y="437.56635"><tspan
+         x="6463.2983"
+         y="437.56635"
+         id="tspan3584">;</tspan></text>
+<text
+       transform="matrix(-0.99965917,0.02610644,0.02610644,0.99965917,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66898537px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3586"
+       x="6489.8145"
+       y="6.2801642"><tspan
+         x="6489.8145"
+         y="6.2801642"
+         id="tspan3588">?</tspan></text>
+<text
+       transform="matrix(-0.99663216,0.08200202,0.08200202,0.99663216,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66897774px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3590"
+       x="6492.5737"
+       y="-357.58578"><tspan
+         x="6492.5737"
+         y="-357.58578"
+         id="tspan3592">&gt;</tspan></text>
+<text
+       transform="matrix(-0.98188947,0.18945465,0.18945465,0.98188947,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66903687px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3594"
+       x="6440.2891"
+       y="-1060.6776"><tspan
+         x="6440.2891"
+         y="-1060.6776"
+         id="tspan3596">&lt;</tspan></text>
+<text
+       transform="matrix(-0.96971289,0.24424764,0.24424764,0.96971289,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66899109px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3598"
+       x="6383.5381"
+       y="-1421.0809"><tspan
+         x="6383.5381"
+         y="-1421.0809"
+         id="tspan3600">?</tspan></text>
+<text
+       transform="matrix(-0.95447751,0.29828288,0.29828288,0.95447751,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66902733px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3602"
+       x="6306.2852"
+       y="-1777.8035"><tspan
+         x="6306.2852"
+         y="-1777.8035"
+         id="tspan3604">=</tspan></text>
+<text
+       transform="matrix(-0.92821006,0.37205656,0.37205656,0.92821006,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66901779px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3606"
+       x="6166.6392"
+       y="-2267.0286"><tspan
+         x="6166.6392"
+         y="-2267.0286"
+         id="tspan3608">“</tspan></text>
+<text
+       transform="matrix(-0.90888025,0.41705718,0.41705718,0.90888025,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66897202px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3610"
+       x="6058.9131"
+       y="-2566.7764"><tspan
+         x="6058.9131"
+         y="-2566.7764"
+         id="tspan3612">E</tspan></text>
+<text
+       transform="matrix(-0.89378202,0.44850161,0.44850161,0.89378202,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66904259px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3614"
+       x="5977.1978"
+       y="-2776.8655"><tspan
+         x="5977.1978"
+         y="-2776.8655"
+         id="tspan3616">l</tspan></text>
+<text
+       transform="matrix(-0.87835478,0.4780093,0.4780093,0.87835478,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66903496px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3618"
+       x="5885.6523"
+       y="-2974.5193"><tspan
+         x="5885.6523"
+         y="-2974.5193"
+         id="tspan3620">k</tspan></text>
+<text
+       transform="matrix(-0.84267422,0.53842378,0.53842378,0.84267422,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66899109px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3622"
+       x="5679.1685"
+       y="-3380.8401"><tspan
+         x="5679.1685"
+         y="-3380.8401"
+         id="tspan3624">z</tspan></text>
+<text
+       transform="matrix(-0.82636645,0.56313275,0.56313275,0.82636645,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66895866px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3626"
+       x="5585.6841"
+       y="-3547.7083"><tspan
+         x="5585.6841"
+         y="-3547.7083"
+         id="tspan3628">i</tspan></text>
+<text
+       transform="matrix(-0.80414411,0.5944344,0.5944344,0.80414411,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66900253px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3630"
+       x="5449.5947"
+       y="-3759.7261"><tspan
+         x="5449.5947"
+         y="-3759.7261"
+         id="tspan3632">n</tspan></text>
+<text
+       transform="matrix(-0.76854989,0.63978986,0.63978986,0.76854989,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66898918px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3634"
+       x="5236.8335"
+       y="-4068.2976"><tspan
+         x="5236.8335"
+         y="-4068.2976"
+         id="tspan3636">n</tspan></text>
+<text
+       transform="matrix(-0.72926875,0.68422737,0.68422737,0.72926875,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66896629px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3638"
+       x="4999.4141"
+       y="-4372.3916"><tspan
+         x="4999.4141"
+         y="-4372.3916"
+         id="tspan3640">e</tspan></text>
+<text
+       transform="matrix(-0.66666225,0.74535995,0.74535995,0.66666225,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.668993px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3642"
+       x="4617.7476"
+       y="-4794.186"><tspan
+         x="4617.7476"
+         y="-4794.186"
+         id="tspan3644">g</tspan></text>
+<text
+       transform="matrix(-0.63068435,0.77603946,0.77603946,0.63068435,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66900063px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3646"
+       x="4400.3594"
+       y="-5007.708"><tspan
+         x="4400.3594"
+         y="-5007.708"
+         id="tspan3648">’</tspan></text>
+<text
+       transform="matrix(-0.59538624,0.80343962,0.80343962,0.59538624,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66895866px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3650"
+       x="4179.6846"
+       y="-5199.6865"><tspan
+         x="4179.6846"
+         y="-5199.6865"
+         id="tspan3652">n</tspan></text>
+<text
+       transform="matrix(-0.54559147,0.83805128,0.83805128,0.54559147,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66896057px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3654"
+       x="3869.7776"
+       y="-5444.2939"><tspan
+         x="3869.7776"
+         y="-5444.2939"
+         id="tspan3656">d</tspan></text>
+<text
+       transform="matrix(-0.49042381,0.87148407,0.87148407,0.49042381,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66901398px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3658"
+       x="3525.2776"
+       y="-5683.415"><tspan
+         x="3525.2776"
+         y="-5683.415"
+         id="tspan3660">a</tspan></text>
+<text
+       transform="matrix(-0.43347161,0.90116722,0.90116722,0.43347161,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66900826px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3662"
+       x="3167.7253"
+       y="-5898.9224"><tspan
+         x="3167.7253"
+         y="-5898.9224"
+         id="tspan3664">g</tspan></text>
+<text
+       transform="matrix(-0.38337344,0.92359342,0.92359342,0.38337344,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66895103px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3666"
+       x="2853.6572"
+       y="-6064.5815"><tspan
+         x="2853.6572"
+         y="-6064.5815"
+         id="tspan3668">”</tspan></text>
+<text
+       transform="matrix(-0.34988761,0.93679169,0.93679169,0.34988761,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66895866px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3670"
+       x="2643.8872"
+       y="-6163.6821"><tspan
+         x="2643.8872"
+         y="-6163.6821"
+         id="tspan3672">;</tspan></text>
+<text
+       transform="matrix(-0.28606816,0.95820927,0.95820927,0.28606816,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66896248px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3674"
+       x="2234.9358"
+       y="-6328.3062"><tspan
+         x="2234.9358"
+         y="-6328.3062"
+         id="tspan3676">?</tspan></text>
+<text
+       transform="matrix(-0.23143647,0.97285002,0.97285002,0.23143647,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66901398px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3678"
+       x="1886.1512"
+       y="-6445.2627"><tspan
+         x="1886.1512"
+         y="-6445.2627"
+         id="tspan3680">&gt;</tspan></text>
+<text
+       transform="matrix(-0.1240069,0.99228136,0.99228136,0.1240069,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66895485px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3682"
+       x="1196.9414"
+       y="-6614.5259"><tspan
+         x="1196.9414"
+         y="-6614.5259"
+         id="tspan3684">&lt;</tspan></text>
+<text
+       transform="matrix(-0.06812025,0.99767712,0.99767712,0.06812025,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66903496px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3686"
+       x="836.71515"
+       y="-6672.0039"><tspan
+         x="836.71515"
+         y="-6672.0039"
+         id="tspan3688">?</tspan></text>
+<text
+       transform="matrix(-0.0121187,0.99992657,0.99992657,0.0121187,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66899109px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3690"
+       x="474.17487"
+       y="-6709.1172"><tspan
+         x="474.17487"
+         y="-6709.1172"
+         id="tspan3692">=</tspan></text>
+<text
+       transform="matrix(0.06556364,0.99784839,0.99784839,-0.06556364,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66902351px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3694"
+       x="-29.433889"
+       y="-6726.877"><tspan
+         x="-29.433889"
+         y="-6726.877"
+         id="tspan3696">“</tspan></text>
+<text
+       transform="matrix(0.11389084,0.99349327,0.99349327,-0.11389084,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.6689949px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3698"
+       x="-345.03391"
+       y="-6718.062"><tspan
+         x="-345.03391"
+         y="-6718.062"
+         id="tspan3700">E</tspan></text>
+<text
+       transform="matrix(0.14807348,0.98897636,0.98897636,-0.14807348,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66897011px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3702"
+       x="-564.94159"
+       y="-6702.5107"><tspan
+         x="-564.94159"
+         y="-6702.5107"
+         id="tspan3704">l</tspan></text>
+<text
+       transform="matrix(0.18046538,0.98358134,0.98358134,-0.18046538,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66897583px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3706"
+       x="-780.50018"
+       y="-6680.541"><tspan
+         x="-780.50018"
+         y="-6680.541"
+         id="tspan3708">k</tspan></text>
+<text
+       transform="matrix(0.24823434,0.96870001,0.96870001,-0.24823434,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66904068px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3710"
+       x="-1225.2751"
+       y="-6611.2642"><tspan
+         x="-1225.2751"
+         y="-6611.2642"
+         id="tspan3712">z</tspan></text>
+<text
+       transform="matrix(0.27657963,0.960991,0.960991,-0.27657963,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66898537px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3714"
+       x="-1409.8342"
+       y="-6572.6562"><tspan
+         x="-1409.8342"
+         y="-6572.6562"
+         id="tspan3716">i</tspan></text>
+<text
+       transform="matrix(0.31299597,0.94975445,0.94975445,-0.31299597,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66897011px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3718"
+       x="-1655.0571"
+       y="-6514.4111"><tspan
+         x="-1655.0571"
+         y="-6514.4111"
+         id="tspan3720">n</tspan></text>
+<text
+       transform="matrix(0.36703109,0.93020867,0.93020867,-0.36703109,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66900826px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3722"
+       x="-2013.52"
+       y="-6409.3462"><tspan
+         x="-2013.52"
+         y="-6409.3462"
+         id="tspan3724">n</tspan></text>
+<text
+       transform="matrix(0.42173587,0.90671873,0.90671873,-0.42173587,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66901207px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3726"
+       x="-2378.385"
+       y="-6278.9595"><tspan
+         x="-2378.385"
+         y="-6278.9595"
+         id="tspan3728">e</tspan></text>
+<text
+       transform="matrix(0.50050862,0.86573155,0.86573155,-0.50050862,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66895676px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3730"
+       x="-2906.3372"
+       y="-6044.7285"><tspan
+         x="-2906.3372"
+         y="-6044.7285"
+         id="tspan3732">g</tspan></text>
+<text
+       transform="matrix(0.54192608,0.84042615,0.84042615,-0.54192608,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66900635px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3734"
+       x="-3181.8357"
+       y="-5897.2056"><tspan
+         x="-3181.8357"
+         y="-5897.2056"
+         id="tspan3736">’</tspan></text>
+<text
+       transform="matrix(0.57958992,0.81490829,0.81490829,-0.57958992,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.6689415px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3738"
+       x="-3439.3494"
+       y="-5746.79"><tspan
+         x="-3439.3494"
+         y="-5746.79"
+         id="tspan3740">n</tspan></text>
+<text
+       transform="matrix(0.62848705,0.77782005,0.77782005,-0.62848705,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66902161px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3742"
+       x="-3772.4124"
+       y="-5525.8179"><tspan
+         x="-3772.4124"
+         y="-5525.8179"
+         id="tspan3744">d</tspan></text>
+<text
+       transform="matrix(0.67730293,0.73570425,0.73570425,-0.67730293,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66903305px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3746"
+       x="-4106.0776"
+       y="-5272.1899"><tspan
+         x="-4106.0776"
+         y="-5272.1899"
+         id="tspan3748">a</tspan></text>
+<text
+       transform="matrix(0.72252849,0.69134114,0.69134114,-0.72252849,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66904068px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3750"
+       x="-4417.1528"
+       y="-5002.5381"><tspan
+         x="-4417.1528"
+         y="-5002.5381"
+         id="tspan3752">g</tspan></text>
+<text
+       transform="matrix(0.74905514,0.66250766,0.66250766,-0.74905514,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66903305px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3754"
+       x="-4595.3486"
+       y="-4826.1084"><tspan
+         x="-4595.3486"
+         y="-4826.1084"
+         id="tspan3756">”</tspan></text>
+<text
+       transform="matrix(0.78100566,0.62452394,0.62452394,-0.78100566,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66898537px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3758"
+       x="-4818.7983"
+       y="-4592.5488"><tspan
+         x="-4818.7983"
+         y="-4592.5488"
+         id="tspan3760">;</tspan></text>
+<text
+       transform="matrix(0.82060023,0.57150263,0.57150263,-0.82060023,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66901588px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3762"
+       x="-5100.2827"
+       y="-4264.4883"><tspan
+         x="-5100.2827"
+         y="-4264.4883"
+         id="tspan3764">?</tspan></text>
+<text
+       transform="matrix(0.8514678,0.52440688,0.52440688,-0.8514678,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66905212px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3766"
+       x="-5319.6533"
+       y="-3971.3645"><tspan
+         x="-5319.6533"
+         y="-3971.3645"
+         id="tspan3768">&gt;</tspan></text>
+<text
+       transform="matrix(0.9037618,0.42803576,0.42803576,-0.9037618,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66898346px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3770"
+       x="-5697.8496"
+       y="-3367.1692"><tspan
+         x="-5697.8496"
+         y="-3367.1692"
+         id="tspan3772">&lt;</tspan></text>
+<text
+       transform="matrix(0.92660154,0.37604466,0.37604466,-0.92660154,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.6689682px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3774"
+       x="-5866.8877"
+       y="-3039.043"><tspan
+         x="-5866.8877"
+         y="-3039.043"
+         id="tspan3776">?</tspan></text>
+<text
+       transform="matrix(0.94642697,0.32291794,0.32291794,-0.94642697,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66897202px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3778"
+       x="-6017.1475"
+       y="-2702.3318"><tspan
+         x="-6017.1475"
+         y="-2702.3318"
+         id="tspan3780">=</tspan></text>
+<text
+       transform="matrix(0.96886761,0.2475794,0.2475794,-0.96886761,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66900826px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3782"
+       x="-6192.0269"
+       y="-2222.5527"><tspan
+         x="-6192.0269"
+         y="-2222.5527"
+         id="tspan3784">“</tspan></text>
+<text
+       transform="matrix(0.97982033,0.19988026,0.19988026,-0.97982033,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66897202px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3786"
+       x="-6282.6807"
+       y="-1917.4771"><tspan
+         x="-6282.6807"
+         y="-1917.4771"
+         id="tspan3788">E</tspan></text>
+<text
+       transform="matrix(0.98617353,0.16571595,0.16571595,-0.98617353,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66900635px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3790"
+       x="-6334.0117"
+       y="-1698.3685"><tspan
+         x="-6334.0117"
+         y="-1698.3685"
+         id="tspan3792">l</tspan></text>
+<text
+       transform="matrix(0.99109793,0.1331349,0.1331349,-0.99109793,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66899872px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3794"
+       x="-6382.3354"
+       y="-1488.9558"><tspan
+         x="-6382.3354"
+         y="-1488.9558"
+         id="tspan3796">k</tspan></text>
+<text
+       transform="matrix(0.99795527,0.06391617,0.06391617,-0.99795527,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66900635px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3798"
+       x="-6453.7949"
+       y="-1042.6097"><tspan
+         x="-6453.7949"
+         y="-1042.6097"
+         id="tspan3800">z</tspan></text>
+<text
+       transform="matrix(0.99939459,0.03479161,0.03479161,-0.99939459,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66901779px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3802"
+       x="-6472.3887"
+       y="-854.22333"><tspan
+         x="-6472.3887"
+         y="-854.22333"
+         id="tspan3804">i</tspan></text>
+<text
+       transform="matrix(0.99999493,-0.00318427,-0.00318427,-0.99999493,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66901016px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3806"
+       x="-6495.9556"
+       y="-608.07239"><tspan
+         x="-6495.9556"
+         y="-608.07239"
+         id="tspan3808">n</tspan></text>
+<text
+       transform="matrix(0.99818208,-0.06027045,-0.06027045,-0.99818208,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.668993px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3810"
+       x="-6507.0796"
+       y="-236.96535"><tspan
+         x="-6507.0796"
+         y="-236.96535"
+         id="tspan3812">n</tspan></text>
+<text
+       transform="matrix(0.99290703,-0.11889336,-0.11889336,-0.99290703,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66899681px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3814"
+       x="-6496.7876"
+       y="145.49985"><tspan
+         x="-6496.7876"
+         y="145.49985"
+         id="tspan3816">e</tspan></text>
+<text
+       transform="matrix(0.97865781,-0.20549668,-0.20549668,-0.97865781,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66896248px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3818"
+       x="-6439.3208"
+       y="713.10541"><tspan
+         x="-6439.3208"
+         y="713.10541"
+         id="tspan3820">g</tspan></text>
+<text
+       transform="matrix(0.9676645,-0.25224079,-0.25224079,-0.9676645,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66897774px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3822"
+       x="-6383.2778"
+       y="1020.794"><tspan
+         x="-6383.2778"
+         y="1020.794"
+         id="tspan3824">’</tspan></text>
+<text
+       transform="matrix(0.95531404,-0.29559278,-0.29559278,-0.95531404,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66900063px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3826"
+       x="-6323.3735"
+       y="1307.0203"><tspan
+         x="-6323.3735"
+         y="1307.0203"
+         id="tspan3828">n</tspan></text>
+<text
+       transform="matrix(0.93549569,-0.35333811,-0.35333811,-0.93549569,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.6690464px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3830"
+       x="-6218.8477"
+       y="1689.6304"><tspan
+         x="-6218.8477"
+         y="1689.6304"
+         id="tspan3832">d</tspan></text>
+<text
+       transform="matrix(0.91073925,-0.41298186,-0.41298186,-0.91073925,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66899109px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3834"
+       x="-6082.2534"
+       y="2086.5457"><tspan
+         x="-6082.2534"
+         y="2086.5457"
+         id="tspan3836">a</tspan></text>
+<text
+       transform="matrix(0.88236891,-0.47055829,-0.47055829,-0.88236891,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.6689415px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3838"
+       x="-5921.3271"
+       y="2471.5078"><tspan
+         x="-5921.3271"
+         y="2471.5078"
+         id="tspan3840">g</tspan></text>
+<text
+       transform="matrix(0.85526409,-0.51819238,-0.51819238,-0.85526409,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66897964px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3842"
+       x="-5762.6792"
+       y="2791.46"><tspan
+         x="-5762.6792"
+         y="2791.46"
+         id="tspan3844">”</tspan></text>
+<text
+       transform="matrix(0.83604063,-0.54866753,-0.54866753,-0.83604063,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66904259px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3846"
+       x="-5648.0405"
+       y="2996.9175"><tspan
+         x="-5648.0405"
+         y="2996.9175"
+         id="tspan3848">;</tspan></text>
+<text
+       transform="matrix(0.79724929,-0.6036502,-0.6036502,-0.79724929,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66900635px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3850"
+       x="-5421.9937"
+       y="3369.2603"><tspan
+         x="-5421.9937"
+         y="3369.2603"
+         id="tspan3852">?</tspan></text>
+<text
+       transform="matrix(0.76179788,-0.64781478,-0.64781478,-0.76179788,0,0)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.66900253px;font-family:'Century Gothic';-inkscape-font-specification:CenturyGothic;writing-mode:lr-tb;fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text3854"
+       x="-5209.9731"
+       y="3670.0757"><tspan
+         x="-5209.9731"
+         y="3670.0757"
+         id="tspan3856">&gt;</tspan></text>
+</g></svg>
